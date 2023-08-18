@@ -1,3 +1,2 @@
-# trabalho
-# Turma 2H
-# guilherme ferreira Moraes N11
+# Aulas do Segundo Trimeste
+guilherme ferreira moreas
